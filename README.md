@@ -1,9 +1,14 @@
 # Carusel-3d
 
->This is an adaptive 3D carousel. Made with pure css and html
-### Tech stack
+>This is a responsive **3D carousel** built with pure **HTML** and **CSS**.  
+No JavaScript was used.
+
+---
+
+## Tech stack
 * [X] html
 * [X] css
-___
-**Link:**
- [You can see it on the website](https://rss-777.github.io/Carusel-3d/)
+---
+
+**Preview:**
+ [Carousel preview](https://rss-777.github.io/Carusel-3d/)
